@@ -1,3 +1,4 @@
+// Try creating one of each type of comment.
 // Komentari Code JS (CTRL + /)
 // 1. Single Line Comment
 // Ini contoh Single line comment
